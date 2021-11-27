@@ -1,0 +1,21 @@
+{
+  "name": "course-runner",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pro100den/course-runner.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pro100den/course-runner/issues"
+  },
+  "homepage": "https://github.com/pro100den/course-runner#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
+}
